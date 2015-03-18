@@ -6,7 +6,7 @@
     description: '...',
     project_url: 'https://github.com/adnmaster/Apphbify',
     download_url: 'https://github.com/adnmaster/Apphbify/archive/master',
-     enableFileSystem: true,
+    enableFileSystem: true,
     variables: { }
   },
   
