@@ -1,4 +1,15 @@
 ﻿[
+ 
+ {
+    key: 'Apphbify',
+    name: 'Apphbify',
+    description: '...',
+    project_url: 'https://github.com/adnmaster/Apphbify',
+    download_url: 'https://github.com/adnmaster/Apphbify/archive/master',
+     enableFileSystem: true,
+    variables: { }
+  },
+  
   {
     key: 'wordpress',
     name: 'WordPress (beta)',
